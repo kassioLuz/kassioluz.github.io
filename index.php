@@ -1,6 +1,3 @@
-<?php
- include ("view/header.php");
-?>
 <main id="main">
 
 	<div class="container">
@@ -87,6 +84,3 @@
 	</div>	<!-- /container -->
 
 </main>
-<?php
- include ("view/footer.php");
-?>
