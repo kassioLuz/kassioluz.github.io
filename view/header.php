@@ -17,8 +17,8 @@
 	<!-- Fonts -->
 	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
 	<!-- Custom styles -->
-	<link rel="stylesheet" href="assets/css/styles.css">
-	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="view/assets/css/styles.css">
+	<link rel="stylesheet" href="view/assets/css/bootstrap.min.css">
 
 	<!--[if lt IE 9]> <script src="assets/js/html5shiv.js"></script> <![endif]-->
 </head>
@@ -27,7 +27,7 @@
 <header id="header">
 	<div id="head" class="parallax" parallax-speed="1">
 		<h1 id="logo" class="text-center">
-			<img class="img-circle" src="assets/images/space_black.jpg" alt="">
+			<img class="img-circle" src="view/assets/images/space_black.jpg" alt="">
 			<span class="title">Space Tech</span>
 			<span class="tagline">Essa ideia vai decolar</span>
 		</h1>
