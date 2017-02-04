@@ -100,3 +100,4 @@
 
 </main>
 <?php  include("/view/footer.php");?>
+<!-- Comentários de um contribuidor -->
